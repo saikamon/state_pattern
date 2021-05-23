@@ -15,10 +15,14 @@ gotoは、ありえないので、挙動を変えずに、ステートパター�
 
 
 # ビルド状態
-[![MSBuild](https://github.com/tpu-game-2021/state_pattern/actions/workflows/msbuild.yml/badge.svg)](https://github.com/tpu-game-2021/state_pattern/actions/workflows/msbuild.yml)
+[![MSBuild](https://github.com/saikamon/state_pattern/actions/workflows/msbuild.yml/badge.svg)](https://github.com/saikamon/state_pattern/actions/workflows/msbuild.yml)
 
 （このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください）
 
 
 # 〆切
 5/24(月)
+よくわからないこと：
+　お忙しいところすみませんでした。
+　先生の授業が分かりやすいですので、言ってることが全部分かります。
+　しかし今までプログラミングの経験がほぼゼロですので、ずっと課題をやるながらｃ＋＋の教科書を参考にしてやってるですが、買った教科書が難しい過ぎで、もしおすすめの初心者向けの教科書と動画とかあれば教えてもらいませんか。この授業私にとってちょっと難しいかもしれませんが、ゲーム制作に興味深いですので、これからも頑張ります。
